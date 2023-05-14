@@ -1,2 +1,2 @@
-# Register-Table
-including tel, password, gender, day of birth and so on
+# Signup
+including username, password, gender, date of birth, course and experience
